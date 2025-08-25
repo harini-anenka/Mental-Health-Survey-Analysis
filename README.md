@@ -7,7 +7,9 @@ The project is structured around 11 guiding questions (Q1–Q11), each supported
 
 ### 📈 **Tools & Libraries Used**
 Python: pandas, numpy, matplotlib, seaborn
+
 Jupyter Notebook for analysis and storytelling
+
 Visualization: Bar plots, heatmaps, and comparative charts
 
 ### 🔎 **Key Analysis Questions (Q1–Q11)**
